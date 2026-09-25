@@ -2,16 +2,17 @@
 
 # 👋 Hi, I'm Ashish Mourya
 
-### ☕ Java Developer | 💻 Backend Development | 🧠 DSA | 🚀 Developer
+### ☕ Java Developer | 💻 Backend Development | 🧠 DSA | 🚀 Continuous Learner
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ashishmourya-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <p>
-  <a href="https://github.com/ashishmourya-dev">
+  <a href="https://github.com/ashishmourya-dev?tab=followers">
     <img src="https://img.shields.io/github/followers/ashishmourya-dev?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
   </a>
+
   <a href="https://github.com/ashishmourya-dev?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge&logo=github" alt="Repositories"/>
   </a>
@@ -25,7 +26,7 @@
 
 I'm **Ashish Mourya**, a developer focused on **Java and Backend Development**.
 
-* ☕ Learning and practicing **Java**
+* ☕ Practicing **Java**
 * 🧠 Improving **Data Structures & Algorithms**
 * 🔧 Working with **Git & GitHub**
 * 🗄️ Exploring **SQL & Databases**
@@ -36,19 +37,19 @@ I'm **Ashish Mourya**, a developer focused on **Java and Backend Development**.
 
 ## 🛠️ Languages & Tools
 
-### Programming Languages
+### ☕ Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp" height="50" alt="Java C++"/>
+  <img src="https://skillicons.dev/icons?i=java,cpp" height="50" alt="Java and C++"/>
 </p>
 
-### Databases
+### 🗄️ Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" height="50" alt="MySQL MongoDB SQLite"/>
 </p>
 
-### Tools
+### 🔧 Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" height="50" alt="Git GitHub VS Code"/>
@@ -56,26 +57,7 @@ I'm **Ashish Mourya**, a developer focused on **Java and Backend Development**.
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=ashishmourya-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Ashish's GitHub Stats"
-  />
-
-<img
- width="49%"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmourya-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
- alt="Ashish's Top Languages"
-/>
-
-</p>
-
----
-
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
 
@@ -88,84 +70,40 @@ alt="Ashish's GitHub Streak"
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=ashishmourya-dev&theme=tokyo-night&hide_border=true&area=true"
-alt="Ashish's GitHub Activity Graph"
-/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/ashishmourya-dev/YOUR-PROJECT-1">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ashishmourya-dev&repo=YOUR-PROJECT-1&theme=tokyonight&hide_border=true"
-    alt="Featured Project 1"
-  />
-</a>
-
-<a href="https://github.com/ashishmourya-dev/YOUR-PROJECT-2">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ashishmourya-dev&repo=YOUR-PROJECT-2&theme=tokyonight&hide_border=true"
-    alt="Featured Project 2"
-  />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/ashishmourya-dev/YOUR-PROJECT-3">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ashishmourya-dev&repo=YOUR-PROJECT-3&theme=tokyonight&hide_border=true"
-    alt="Featured Project 3"
-  />
-</a>
-
-<a href="https://github.com/ashishmourya-dev/YOUR-PROJECT-4">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ashishmourya-dev&repo=YOUR-PROJECT-4&theme=tokyonight&hide_border=true"
-    alt="Featured Project 4"
-  />
-</a>
-
-</p>
-
----
-
-# ⭐ GitHub Overview
+## ⭐ GitHub Overview
 
 <p align="center">
 
 <a href="https://github.com/ashishmourya-dev?tab=repositories">
-  <img src="https://img.shields.io/badge/📁%20Repositories-View%20All-181717?style=for-the-badge" alt="Repositories"/>
+  <img
+    src="https://img.shields.io/badge/📁%20Repositories-View%20All-181717?style=for-the-badge"
+    alt="Repositories"
+  />
 </a>
 
 <a href="https://github.com/ashishmourya-dev?tab=stars">
-  <img src="https://img.shields.io/badge/⭐%20Stars-View%20Stars-181717?style=for-the-badge" alt="Stars"/>
+  <img
+    src="https://img.shields.io/badge/⭐%20Stars-View%20Stars-181717?style=for-the-badge"
+    alt="Stars"
+  />
 </a>
 
 <a href="https://github.com/ashishmourya-dev">
-  <img src="https://img.shields.io/badge/🔥%20Contributions-View%20Profile-181717?style=for-the-badge" alt="Contributions"/>
+  <img
+    src="https://img.shields.io/badge/🔥%20Contributions-View%20Profile-181717?style=for-the-badge"
+    alt="Contributions"
+  />
 </a>
 
 </p>
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
 
-<a href="mailto:ashishmaurya2333@gmail.com">
+<a href="mailto:[ashishmaurya2333@gmail.com](mailto:ashishmaurya2333@gmail.com)">
   <img
     src="https://img.shields.io/badge/Email-ashishmaurya2333%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
